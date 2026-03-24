@@ -1,7 +1,7 @@
 # Run
 (1) Pull Docker Image
 ```
-docker pull gs16100/team1_project:0.1.0
+docker pull --platform linux/amd64 gs16100/team1_project:0.1.0
 ```
 (2) run.sh
 ```
